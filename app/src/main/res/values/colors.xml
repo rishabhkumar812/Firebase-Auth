@@ -10,5 +10,7 @@
     <color name="dark_blue">#0E111D</color>
     <color name="Light_blue">#C2CBF1</color>
     <color name="theme">#1FA9BB</color>
+    <color name="grey">#434141</color>
+
 
 </resources>
