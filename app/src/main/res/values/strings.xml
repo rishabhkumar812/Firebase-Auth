@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">User Login</string>
+    <string name="minimum_password">Password length should be more than 6.</string>
+    <string name="auth_failed">Check your username and password!</string>
+    <string name="password">Password</string>
+    <string name="username">Email address</string>
+    <string name="new_account">New Account?</string>
+    <string name="already_registered_log_in">Already Registered? Log in</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+    <string name="firebaseAuth_System">FirebaseAuth System</string>
+    <string name="genre">Genre</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="releasedate">releaseDate</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+</resources>
